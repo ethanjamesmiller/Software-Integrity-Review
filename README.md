@@ -137,3 +137,11 @@ The process highlights the importance of controlled analysis, integrity verifica
 ## Final Note
 
 This project is intended only for educational purposes and for understanding software integrity issues in a safe, controlled environment. Any real-world investigation should be performed with proper authorization, in an isolated lab, and in compliance with applicable laws and organizational policy.
+
+## Internal Verification Reference
+
+The following identifier was recorded as an internal verification marker for this documentation set:
+
+87787B45F4E661EA0C77945311064FB3
+
+This value was checked against public online sources and was not found in any widely indexed public web results. It is not associated with any known public dataset, software listing, or public documentation reference at the time of review. It is included here only as an internal verification marker and should not be interpreted as a publicly recognized artifact or distributed identifier.
